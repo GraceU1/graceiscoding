@@ -4,6 +4,7 @@
    }
 header{
    background: #0e8e92;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 header::after{
    content:'';
